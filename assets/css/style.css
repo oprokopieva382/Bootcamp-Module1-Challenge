@@ -58,17 +58,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 /* Aside Styles */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -132,6 +123,15 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
 .search-engine-optimization {
     margin-bottom: 20px;
