@@ -5,7 +5,7 @@
 This Horiseon - Digital Marketing Solutions Webpage was created for boot camp students who were going through the HTML CSS Git Challenge: Code Refactor. It contains notes about Search Engine Optimization, Online Reputation Management, Social Media Marketing and the benefit lead lead such as generation, brand awareness, cost management
 
 ## Links
-Check out the [Horiseon - Digital Marketing Solutions Webpage](https://oprokopieva382.github.io/Bootcamp-Module1-Challenge/)
+Check out the [Horiseon - Social Solution Services Webpage](https://oprokopieva382.github.io/Bootcamp-Module1-Challenge/)
 
 ## Webpage View
 ![webpage-screenshot](./assets/images/webpage-screenshot.png)
