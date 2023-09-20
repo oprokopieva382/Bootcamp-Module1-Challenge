@@ -107,17 +107,16 @@ p {
 }
 
 .search-engine-optimization img,
-.social-media-marketing img {
+.social-media-marketing img,
+.online-reputation-management img {
   max-height: 200px;
   float: left;
   margin-right: 25px;
 }
 
 .online-reputation-management img {
-  max-height: 200px;
-  float: right;
-  margin-left: 25px;
-}
+   float: right;
+ }
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
