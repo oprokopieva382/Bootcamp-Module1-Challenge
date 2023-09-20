@@ -17,7 +17,7 @@ N/A
 
 ## Usage
 
-To use this Webpage, you can review the notes in each section acquire the necessary knowledge.
+On this Webpage you can review the content of each section acquire the knowledge more specific.
 
 ## Credits
 
